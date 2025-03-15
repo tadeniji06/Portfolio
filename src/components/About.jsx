@@ -42,15 +42,14 @@ const About = () => {
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
-
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a software developer with experience in JavaScript, and
-        expertise in frameworks like React, Node.js, Three.js and GSAP. I'm
-        collaborate closely to create efficient and user-friendly solutions
-        that solve real-world problems.
+        I’m a frontend-focused developer with a sharp eye for design and
+        smooth interactions. My stack? React, Three.js, GSAP—built for
+        speed, aesthetics, and seamless UX. I turn ideas into visually
+        stunning, high-performance web experiences.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
