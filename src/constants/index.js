@@ -123,7 +123,7 @@ const experiences = [
     company_name: "Diakrino Limited",
     icon: diakrino,
     iconBg: "#383E56",
-    date: "Oct 2023 - Till Date",
+    date: "Oct 2023 - March 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
